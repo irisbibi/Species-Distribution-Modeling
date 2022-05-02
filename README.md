@@ -1,5 +1,5 @@
-# Species-Distribution-Modeling
-Species Distribution Modeling for Kit Foxes and the Sierra Nevada Red Fox
+# Species-Distribution-Modeling for Kit Foxes and the Sierra Nevada Red Fox
+
 The kit fox, Vulpes macrotis, is a small canid often found in the San Joaquin Valley and
 adjacent valleys in central California (Koopman et al., 2000). Currently, it is listed as a federally
 endangered and threatened species in California, which can be attributed to profound habitat
