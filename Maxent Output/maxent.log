@@ -1,0 +1,1050 @@
+Fri Apr 24 15:18:55 PDT 2020
+MaxEnt version 3.4.1
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio1.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio10.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio11.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio12.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio13.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio14.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio15.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio16.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio17.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio18.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio19.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio2.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio3.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio4.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio5.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio6.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio7.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio8.asc
+Checking header of /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio9.asc
+Reading samples from Locations.csv
+Read samples: max memory 3817865216, total allocated 257425408, free 208959592, used 48465816, increment 48465816
+Warning: Sample at -104.28547, 32.456467 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.83622, 31.380153 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.00741, 31.752301 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.238975, 32.794062 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -109.737969, 38.480739 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.023447, 31.205281 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.023447, 31.205281 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.023447, 31.205281 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -108.718624, 36.357244 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -107.177453, 32.644832 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.347551, 34.602441 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.40376, 33.47104 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.825055, 34.452089 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -103.8749, 34.5331 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.6114, 34.42472 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.518974, 33.507616 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.7363, 34.03299 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.72527, 34.339142 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.410441, 32.623142 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.53061, 33.38946 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.59027, 33.875403 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -109.794788, 34.974736 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.47607, 33.66869 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -107.575, 35.696944 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -107.439608, 33.963993 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -103.54964, 33.87057 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.241389, 32.894167 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -107.843515, 38.507509 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.37751, 34.9958 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.15633, 34.62021 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.33597, 34.59824 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -103.58446, 33.88508 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -107.843515, 38.507509 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.49903, 33.46701 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.621111, 33.394722 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.014893491921, 33.0433339823495 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.709, 32.09 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -108.806795, 31.882081 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -108.508928, 31.465116 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.370566, 31.678068 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -107.422562, 35.952681 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.070771, 31.570765 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.070771, 31.570765 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.8772, 34.87925 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.8772, 34.87925 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.378, 32.632 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.4815, 32.3723 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.501141, 34.125205 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.892708, 34.037612 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.97894358615, 34.7878700413124 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -107.084267515037, 34.4341906020343 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -107.084267515037, 34.4341906020343 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -107.084267515037, 34.4341906020343 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.348488799832, 34.6013751752569 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -104.400866, 32.478606 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -105.85, 37.725 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.544241, 35.017458 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -109.020447974268, 37.319945719702 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -109.020447974268, 37.319945719702 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.758314, 34.892364 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.758314, 34.892364 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -109.514976360201, 38.9412610037241 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -109.049606, 31.810479 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.704962949646, 35.0845800140319 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.758314, 34.892364 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.758314, 34.892364 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.8772, 34.87925 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.8772, 34.87925 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.8772, 34.87925 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.8772, 34.87925 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.8772, 34.87925 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -113.619709618556, 31.3287423361994 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -113.619709618556, 31.3287423361994 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -113.622658698857, 31.3301682728954 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -113.539707632725, 31.3140772808462 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -113.539707632725, 31.3140772808462 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -107.299048, 35.023328 in Locations.csv is outside the bounding box of environmental data, skipping
+Warning: Sample at -106.44944, 37.02056 in Locations.csv is outside the bounding box of environmental data, skipping
+Time since start: 13.087
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio1.asc size 404840, max memory = 3817865216
+Reading file bio1.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 257425408, free 192800784, used 64624624, increment 16158808
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio1.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio10.asc size 439183, max memory = 3817865216
+Reading file bio10.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 257425408, free 227430728, used 29994680, increment -34629944
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio10.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio11.asc size 396325, max memory = 3817865216
+Reading file bio11.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 257425408, free 201569240, used 55856168, increment 25861488
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio11.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio12.asc size 441839, max memory = 3817865216
+Reading file bio12.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 257425408, free 175953904, used 81471504, increment 25615336
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio12.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio13.asc size 375627, max memory = 3817865216
+Reading file bio13.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 257425408, free 213114000, used 44311408, increment -37160096
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio13.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio14.asc size 320649, max memory = 3817865216
+Reading file bio14.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 257425408, free 188640376, used 68785032, increment 24473624
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio14.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio15.asc size 364211, max memory = 3817865216
+Reading file bio15.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 257425408, free 231307744, used 26117664, increment -42667368
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio15.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio16.asc size 404254, max memory = 3817865216
+Reading file bio16.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 257425408, free 208331576, used 49093832, increment 22976168
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio16.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio17.asc size 353329, max memory = 3817865216
+Reading file bio17.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 257425408, free 182840376, used 74585032, increment 25491200
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio17.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio18.asc size 367442, max memory = 3817865216
+Reading file bio18.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 328728576, free 292226760, used 36501816, increment -38083216
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio18.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio19.asc size 395581, max memory = 3817865216
+Reading file bio19.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 328728576, free 268054176, used 60674400, increment 24172584
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio19.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio2.asc size 439228, max memory = 3817865216
+Reading file bio2.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 328728576, free 242634448, used 86094128, increment 25419728
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio2.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio3.asc size 364388, max memory = 3817865216
+Reading file bio3.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 328728576, free 219187456, used 109541120, increment 23446992
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio3.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio4.asc size 514961, max memory = 3817865216
+Reading file bio4.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 328728576, free 196797224, used 131931352, increment 22390232
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio4.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio5.asc size 439647, max memory = 3817865216
+Reading file bio5.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 329252864, free 301762600, used 27490264, increment -104441088
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio5.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio6.asc size 427993, max memory = 3817865216
+Reading file bio6.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 329252864, free 276222880, used 53029984, increment 25539720
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio6.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio7.asc size 439647, max memory = 3817865216
+Reading file bio7.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 329252864, free 252697608, used 76555256, increment 23525272
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio7.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio8.asc size 400006, max memory = 3817865216
+Reading file bio8.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 329252864, free 225706048, used 103546816, increment 26991560
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio8.mxe
+Converting file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/bio9.asc size 434562, max memory = 3817865216
+Reading file bio9.asc
+FLOAT, 75259 pixels with data
+readGrid: max memory 3817865216, total allocated 329252864, free 200972232, used 128280632, increment 24733816
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors/maxent.cache/bio9.mxe
+Extractor: max memory 3817865216, total allocated 329252864, free 197310336, used 131942528, increment 3661896
+Extracting random background and sample data
+Time since start: 14.136
+75259 points with values for all grids
+Adding samples to background in feature space
+Command line used: 
+Command line to repeat: java density.MaxEnt nowarnings noprefixes responsecurves jackknife "outputdirectory=/Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Maxent Output" "samplesfile=/Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Locations.csv" "environmentallayers=/Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors" randomtestpoints=20
+Species: Vulpes_macrotis
+Layers: bio1 bio10 bio11 bio12 bio13 bio14 bio15 bio16 bio17 bio18 bio19 bio2 bio3 bio4 bio5 bio6 bio7 bio8 bio9
+Layertypes: Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous Continuous
+responsecurves: true
+jackknife: true
+outputdirectory: /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Maxent Output
+samplesfile: /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Locations.csv
+environmentallayers: /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Predictors
+randomtestpoints: 20
+
+getSamples: max memory 3817865216, total allocated 329252864, free 182232616, used 147020248, increment 15077720
+Making features
+makeFeatures: max memory 3817865216, total allocated 459800576, free 407806464, used 51994112, increment -95026136
+Vulpes_macrotis: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 459800576, free 386995600, used 72804976, increment 20810864
+linearPredictor: max memory 3817865216, total allocated 459800576, free 386995600, used 72804976, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 459800576, free 386995600, used 72804976, increment 0
+Sequential: max memory 3817865216, total allocated 459800576, free 386995600, used 72804976, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 18.884
+500: time = 4.194000 loss = 7.671095 testLoss 7.669662
+Resulting gain: 1.5547252780094762
+Projecting...
+Writing file /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Maxent Output/Vulpes_macrotis.asc
+Writing /Users/camillebrzechffa/Desktop/2019-2020/Computational Biology/Lab/Final Project/Maxent Output/plots/Vulpes_macrotis.png
+Time since start: 19.887
+Vulpes_macrotis response curves
+Response curve: only bio1
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 711851376, used 169476752, increment 96671776
+Vulpes_macrotis bio1: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 711851376, used 169476752, increment 0
+linearPredictor: max memory 3817865216, total allocated 881328128, free 711851376, used 169476752, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 711851376, used 169476752, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 711851376, used 169476752, increment 0
+Initial loss: 9.225819942824568
+Time since start: 21.646
+500: time = 0.810000 loss = 8.618231
+Resulting gain: 0.607588663267224
+Vulpes_macrotis response curves
+Response curve: only bio10
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 638730632, used 242597496, increment 73120744
+Vulpes_macrotis bio10: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 638730632, used 242597496, increment 0
+linearPredictor: max memory 3817865216, total allocated 881328128, free 638730632, used 242597496, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 638730632, used 242597496, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 638730632, used 242597496, increment 0
+Initial loss: 9.225819942824568
+380: time = 0.688000 loss = 8.602600
+Resulting gain: 0.6232199185528788
+Vulpes_macrotis response curves
+Response curve: only bio11
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 591988848, used 289339280, increment 46741784
+Vulpes_macrotis bio11: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 591988848, used 289339280, increment 0
+linearPredictor: max memory 3817865216, total allocated 881328128, free 591988848, used 289339280, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 591988848, used 289339280, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 591988848, used 289339280, increment 0
+Initial loss: 9.225819942824568
+Time since start: 23.142
+500: time = 0.700000 loss = 8.672095
+Resulting gain: 0.5537252153838406
+Vulpes_macrotis response curves
+Response curve: only bio12
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 521309976, used 360018152, increment 70678872
+Vulpes_macrotis bio12: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 521309976, used 360018152, increment 0
+linearPredictor: max memory 3817865216, total allocated 881328128, free 521309976, used 360018152, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 521309976, used 360018152, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 521309976, used 360018152, increment 0
+Initial loss: 9.225819942824568
+220: time = 0.457000 loss = 8.821988
+Resulting gain: 0.40383210106061185
+Vulpes_macrotis response curves
+Response curve: only bio13
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 438134672, used 443193456, increment 83175304
+Vulpes_macrotis bio13: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 437991616, used 443336512, increment 143056
+linearPredictor: max memory 3817865216, total allocated 881328128, free 437991616, used 443336512, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 437991616, used 443336512, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 437991616, used 443336512, increment 0
+Initial loss: 9.225819942824568
+140: time = 0.254000 loss = 9.040738
+Resulting gain: 0.18508184081064627
+Vulpes_macrotis response curves
+Response curve: only bio14
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 417275824, used 464052304, increment 20715792
+Vulpes_macrotis bio14: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 417275824, used 464052304, increment 0
+linearPredictor: max memory 3817865216, total allocated 881328128, free 417275824, used 464052304, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 417275824, used 464052304, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 417275824, used 464052304, increment 0
+Initial loss: 9.225819942824568
+Time since start: 24.592
+360: time = 0.574000 loss = 8.387279
+Resulting gain: 0.8385408598489388
+Vulpes_macrotis response curves
+Response curve: only bio15
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 383692208, used 497635920, increment 33583616
+Vulpes_macrotis bio15: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 383692208, used 497635920, increment 0
+linearPredictor: max memory 3817865216, total allocated 881328128, free 383692208, used 497635920, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 383692208, used 497635920, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 383692208, used 497635920, increment 0
+Initial loss: 9.225819942824568
+300: time = 0.383000 loss = 8.882794
+Resulting gain: 0.34302643908484853
+Vulpes_macrotis response curves
+Response curve: only bio16
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 356122648, used 525205480, increment 27569560
+Vulpes_macrotis bio16: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 355979592, used 525348536, increment 143056
+linearPredictor: max memory 3817865216, total allocated 881328128, free 355979592, used 525348536, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 355979592, used 525348536, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 355979592, used 525348536, increment 0
+Initial loss: 9.225819942824568
+220: time = 0.427000 loss = 9.044333
+Resulting gain: 0.18148649029840414
+Vulpes_macrotis response curves
+Response curve: only bio17
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 293891528, used 587436600, increment 62088064
+Vulpes_macrotis bio17: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 293891528, used 587436600, increment 0
+linearPredictor: max memory 3817865216, total allocated 881328128, free 293891528, used 587436600, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 293891528, used 587436600, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 293891528, used 587436600, increment 0
+Initial loss: 9.225819942824568
+Time since start: 26.024
+280: time = 0.448000 loss = 8.306538
+Resulting gain: 0.9192814480394897
+Vulpes_macrotis response curves
+Response curve: only bio18
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 265857128, used 615471000, increment 28034400
+Vulpes_macrotis bio18: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 265857128, used 615471000, increment 0
+linearPredictor: max memory 3817865216, total allocated 881328128, free 265857128, used 615471000, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 265857128, used 615471000, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 265857128, used 615471000, increment 0
+Initial loss: 9.225819942824568
+260: time = 0.418000 loss = 8.296944
+Resulting gain: 0.9288761218718093
+Vulpes_macrotis response curves
+Response curve: only bio19
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 239366288, used 641961840, increment 26490840
+Vulpes_macrotis bio19: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 239366288, used 641961840, increment 0
+linearPredictor: max memory 3817865216, total allocated 881328128, free 239366288, used 641961840, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 239366288, used 641961840, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 239366288, used 641961840, increment 0
+Initial loss: 9.225819942824568
+Time since start: 27.038
+240: time = 0.478000 loss = 9.051113
+Resulting gain: 0.17470741244796528
+Vulpes_macrotis response curves
+Response curve: only bio2
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 176308992, used 705019136, increment 63057296
+Vulpes_macrotis bio2: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 881328128, free 176308992, used 705019136, increment 0
+linearPredictor: max memory 3817865216, total allocated 881328128, free 176308992, used 705019136, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 881328128, free 176308992, used 705019136, increment 0
+Sequential: max memory 3817865216, total allocated 881328128, free 176308992, used 705019136, increment 0
+Initial loss: 9.225819942824568
+360: time = 0.487000 loss = 9.144160
+Resulting gain: 0.08166038337968651
+Vulpes_macrotis response curves
+Response curve: only bio3
+Making features
+makeFeatures: max memory 3817865216, total allocated 881328128, free 144014496, used 737313632, increment 32294496
+Vulpes_macrotis bio3: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 836763648, free 762928024, used 73835624, increment -663478008
+linearPredictor: max memory 3817865216, total allocated 836763648, free 762928024, used 73835624, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 836763648, free 762928024, used 73835624, increment 0
+Sequential: max memory 3817865216, total allocated 836763648, free 762928024, used 73835624, increment 0
+Initial loss: 9.225819942824568
+140: time = 0.241000 loss = 9.190250
+Resulting gain: 0.035569895303410703
+Vulpes_macrotis response curves
+Response curve: only bio4
+Making features
+makeFeatures: max memory 3817865216, total allocated 836763648, free 754943416, used 81820232, increment 7984608
+Vulpes_macrotis bio4: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 836763648, free 754943416, used 81820232, increment 0
+linearPredictor: max memory 3817865216, total allocated 836763648, free 754943416, used 81820232, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 836763648, free 754943416, used 81820232, increment 0
+Sequential: max memory 3817865216, total allocated 836763648, free 754943416, used 81820232, increment 0
+Initial loss: 9.225819942824568
+Time since start: 29.668
+500: time = 1.717000 loss = 9.074724
+Resulting gain: 0.1510962727940015
+Vulpes_macrotis response curves
+Response curve: only bio5
+Making features
+makeFeatures: max memory 3817865216, total allocated 836763648, free 252559640, used 584204008, increment 502383776
+Vulpes_macrotis bio5: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 836763648, free 252559640, used 584204008, increment 0
+linearPredictor: max memory 3817865216, total allocated 836763648, free 252559640, used 584204008, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 836763648, free 252559640, used 584204008, increment 0
+Sequential: max memory 3817865216, total allocated 836763648, free 252559640, used 584204008, increment 0
+Initial loss: 9.225819942824568
+300: time = 0.501000 loss = 8.579985
+Resulting gain: 0.6458352985365217
+Vulpes_macrotis response curves
+Response curve: only bio6
+Making features
+makeFeatures: max memory 3817865216, total allocated 836763648, free 211996056, used 624767592, increment 40563584
+Vulpes_macrotis bio6: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 836763648, free 211996056, used 624767592, increment 0
+linearPredictor: max memory 3817865216, total allocated 836763648, free 211996056, used 624767592, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 836763648, free 211996056, used 624767592, increment 0
+Sequential: max memory 3817865216, total allocated 836763648, free 211996056, used 624767592, increment 0
+Initial loss: 9.225819942824568
+Time since start: 30.841
+360: time = 0.549000 loss = 8.747814
+Resulting gain: 0.4780058681944208
+Vulpes_macrotis response curves
+Response curve: only bio7
+Making features
+makeFeatures: max memory 3817865216, total allocated 836763648, free 171999464, used 664764184, increment 39996592
+Vulpes_macrotis bio7: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 836763648, free 161875896, used 674887752, increment 10123568
+linearPredictor: max memory 3817865216, total allocated 836763648, free 161875896, used 674887752, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 836763648, free 161875896, used 674887752, increment 0
+Sequential: max memory 3817865216, total allocated 836763648, free 161875896, used 674887752, increment 0
+Initial loss: 9.225819942824568
+480: time = 0.679000 loss = 8.937369
+Resulting gain: 0.2884509071243322
+Vulpes_macrotis response curves
+Response curve: only bio8
+Making features
+makeFeatures: max memory 3817865216, total allocated 808452096, free 721362256, used 87089840, increment -587797912
+Vulpes_macrotis bio8: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 808452096, free 711519992, used 96932104, increment 9842264
+linearPredictor: max memory 3817865216, total allocated 808452096, free 711519992, used 96932104, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 808452096, free 711519992, used 96932104, increment 0
+Sequential: max memory 3817865216, total allocated 808452096, free 711519992, used 96932104, increment 0
+Initial loss: 9.225819942824568
+Time since start: 32.496
+500: time = 0.867000 loss = 8.695498
+Resulting gain: 0.530322429343224
+Vulpes_macrotis response curves
+Response curve: only bio9
+Making features
+makeFeatures: max memory 3817865216, total allocated 808452096, free 630946128, used 177505968, increment 80573864
+Vulpes_macrotis bio9: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 808452096, free 630946128, used 177505968, increment 0
+linearPredictor: max memory 3817865216, total allocated 808452096, free 630946128, used 177505968, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 808452096, free 630946128, used 177505968, increment 0
+Sequential: max memory 3817865216, total allocated 808452096, free 630946128, used 177505968, increment 0
+Initial loss: 9.225819942824568
+500: time = 0.826000 loss = 8.317148
+Resulting gain: 0.9086720022380135
+Vulpes_macrotis response curves
+Time since start: 34.529
+Jackknife: leave bio1 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 808452096, free 387790544, used 420661552, increment 243155584
+Vulpes_macrotis bio1: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 808452096, free 377907656, used 430544440, increment 9882888
+linearPredictor: max memory 3817865216, total allocated 808452096, free 377907656, used 430544440, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 808452096, free 377907656, used 430544440, increment 0
+Sequential: max memory 3817865216, total allocated 808452096, free 377907656, used 430544440, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 38.622
+500: time = 3.833000 loss = 7.677432 testLoss 7.669525
+Jackknife: leave bio10 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 752877568, free 313021112, used 439856456, increment 9312016
+Vulpes_macrotis bio10: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 752877568, free 293528248, used 459349320, increment 19492864
+linearPredictor: max memory 3817865216, total allocated 752877568, free 293528248, used 459349320, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 752877568, free 293528248, used 459349320, increment 0
+Sequential: max memory 3817865216, total allocated 752877568, free 293528248, used 459349320, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 42.901
+500: time = 3.961000 loss = 7.667756 testLoss 7.672509
+Jackknife: leave bio11 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 704118784, free 129025696, used 575093088, increment 115743768
+Vulpes_macrotis bio11: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 704118784, free 119495128, used 584623656, increment 9530568
+linearPredictor: max memory 3817865216, total allocated 704118784, free 119495128, used 584623656, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 704118784, free 119495128, used 584623656, increment 0
+Sequential: max memory 3817865216, total allocated 704118784, free 119495128, used 584623656, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 47.142
+500: time = 3.933000 loss = 7.686427 testLoss 7.710429
+Jackknife: leave bio12 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 640155648, free 311717040, used 328438608, increment -256185048
+Vulpes_macrotis bio12: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 640155648, free 294795600, used 345360048, increment 16921440
+linearPredictor: max memory 3817865216, total allocated 640155648, free 294795600, used 345360048, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 640155648, free 294795600, used 345360048, increment 0
+Sequential: max memory 3817865216, total allocated 640155648, free 294795600, used 345360048, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 51.182
+500: time = 3.731000 loss = 7.677675 testLoss 7.678347
+Jackknife: leave bio13 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 590872576, free 426594272, used 164278304, increment -181081744
+Vulpes_macrotis bio13: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 590872576, free 411722312, used 179150264, increment 14871960
+linearPredictor: max memory 3817865216, total allocated 590872576, free 411722312, used 179150264, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 590872576, free 411722312, used 179150264, increment 0
+Sequential: max memory 3817865216, total allocated 590872576, free 411722312, used 179150264, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 55.33
+500: time = 3.837000 loss = 7.682803 testLoss 7.685478
+Jackknife: leave bio14 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 537395200, free 287036056, used 250359144, increment 71208880
+Vulpes_macrotis bio14: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 537395200, free 267406232, used 269988968, increment 19629824
+linearPredictor: max memory 3817865216, total allocated 537395200, free 267406232, used 269988968, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 537395200, free 267406232, used 269988968, increment 0
+Sequential: max memory 3817865216, total allocated 537395200, free 267406232, used 269988968, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 59.572
+500: time = 3.930000 loss = 7.668228 testLoss 7.663014
+Jackknife: leave bio15 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 475529216, free 364473648, used 111055568, increment -158933400
+Vulpes_macrotis bio15: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 475529216, free 352980408, used 122548808, increment 11493240
+linearPredictor: max memory 3817865216, total allocated 475529216, free 352980408, used 122548808, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 475529216, free 352980408, used 122548808, increment 0
+Sequential: max memory 3817865216, total allocated 475529216, free 352980408, used 122548808, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 63.761
+500: time = 3.870000 loss = 7.697268 testLoss 7.686994
+Jackknife: leave bio16 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 430440448, free 176689896, used 253750552, increment 131201744
+Vulpes_macrotis bio16: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 430440448, free 162441720, used 267998728, increment 14248176
+linearPredictor: max memory 3817865216, total allocated 430440448, free 162441720, used 267998728, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 430440448, free 162441720, used 267998728, increment 0
+Sequential: max memory 3817865216, total allocated 430440448, free 162441720, used 267998728, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 67.811
+500: time = 3.735000 loss = 7.674580 testLoss 7.681872
+Jackknife: leave bio17 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 385875968, free 125656568, used 260219400, increment -7779328
+Vulpes_macrotis bio17: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 385875968, free 109560520, used 276315448, increment 16096048
+linearPredictor: max memory 3817865216, total allocated 385875968, free 109560520, used 276315448, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 385875968, free 109560520, used 276315448, increment 0
+Sequential: max memory 3817865216, total allocated 385875968, free 109560520, used 276315448, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 72.151
+500: time = 4.033000 loss = 7.674378 testLoss 7.691796
+Jackknife: leave bio18 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 337641472, free 130368080, used 207273392, increment -69042056
+Vulpes_macrotis bio18: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 337641472, free 114630224, used 223011248, increment 15737856
+linearPredictor: max memory 3817865216, total allocated 337641472, free 114630224, used 223011248, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 337641472, free 114630224, used 223011248, increment 0
+Sequential: max memory 3817865216, total allocated 337641472, free 114630224, used 223011248, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 76.526
+500: time = 4.063000 loss = 7.704278 testLoss 7.664341
+Jackknife: leave bio19 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 295698432, free 73331320, used 222367112, increment -644136
+Vulpes_macrotis bio19: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 314048512, free 181077128, used 132971384, increment -89395728
+linearPredictor: max memory 3817865216, total allocated 314048512, free 181077128, used 132971384, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 314048512, free 181077128, used 132971384, increment 0
+Sequential: max memory 3817865216, total allocated 314048512, free 181077128, used 132971384, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 80.52
+500: time = 3.682000 loss = 7.670577 testLoss 7.677807
+Jackknife: leave bio2 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 245366784, free 153591120, used 91775664, increment -41195720
+Vulpes_macrotis bio2: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 245366784, free 136966072, used 108400712, increment 16625048
+linearPredictor: max memory 3817865216, total allocated 245366784, free 136966072, used 108400712, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 245366784, free 136966072, used 108400712, increment 0
+Sequential: max memory 3817865216, total allocated 245366784, free 136966072, used 108400712, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 84.734
+500: time = 3.901000 loss = 7.681218 testLoss 7.676891
+Jackknife: leave bio3 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 209715200, free 106783952, used 102931248, increment -5469464
+Vulpes_macrotis bio3: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 209715200, free 91110880, used 118604320, increment 15673072
+linearPredictor: max memory 3817865216, total allocated 209715200, free 91110880, used 118604320, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 209715200, free 91110880, used 118604320, increment 0
+Sequential: max memory 3817865216, total allocated 209715200, free 91110880, used 118604320, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 88.958
+500: time = 3.917000 loss = 7.674326 testLoss 7.679993
+Jackknife: leave bio4 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 284688384, free 152592824, used 132095560, increment 13491240
+Vulpes_macrotis bio4: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 284688384, free 137702208, used 146986176, increment 14890616
+linearPredictor: max memory 3817865216, total allocated 284688384, free 137620944, used 147067440, increment 81264
+FeaturedSpace: max memory 3817865216, total allocated 284688384, free 137618848, used 147069536, increment 2096
+Sequential: max memory 3817865216, total allocated 284688384, free 137618848, used 147069536, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 92.372
+500: time = 3.098000 loss = 7.687597 testLoss 7.698414
+Jackknife: leave bio5 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 330825728, free 101876424, used 228949304, increment 81879768
+Vulpes_macrotis bio5: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 330825728, free 86324360, used 244501368, increment 15552064
+linearPredictor: max memory 3817865216, total allocated 330825728, free 86324360, used 244501368, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 330825728, free 86324360, used 244501368, increment 0
+Sequential: max memory 3817865216, total allocated 330825728, free 86324360, used 244501368, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 96.476
+500: time = 3.800000 loss = 7.667369 testLoss 7.667474
+Jackknife: leave bio6 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 335020032, free 176131856, used 158888176, increment -85613192
+Vulpes_macrotis bio6: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 335020032, free 159103912, used 175916120, increment 17027944
+linearPredictor: max memory 3817865216, total allocated 335020032, free 159103912, used 175916120, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 335020032, free 159103912, used 175916120, increment 0
+Sequential: max memory 3817865216, total allocated 335020032, free 159103912, used 175916120, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 100.786
+500: time = 3.997000 loss = 7.714666 testLoss 7.769645
+Jackknife: leave bio7 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 297795584, free 103055768, used 194739816, increment 18823696
+Vulpes_macrotis bio7: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 297795584, free 89634032, used 208161552, increment 13421736
+linearPredictor: max memory 3817865216, total allocated 297795584, free 89634032, used 208161552, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 297795584, free 89634032, used 208161552, increment 0
+Sequential: max memory 3817865216, total allocated 297795584, free 89634032, used 208161552, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 104.831
+500: time = 3.729000 loss = 7.683030 testLoss 7.678206
+Jackknife: leave bio8 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 270532608, free 111920264, used 158612344, increment -49549208
+Vulpes_macrotis bio8: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 270532608, free 95194336, used 175338272, increment 16725928
+linearPredictor: max memory 3817865216, total allocated 270532608, free 95194336, used 175338272, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 270532608, free 95194336, used 175338272, increment 0
+Sequential: max memory 3817865216, total allocated 270532608, free 95194336, used 175338272, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 108.895
+500: time = 3.756000 loss = 7.681674 testLoss 7.662566
+Jackknife: leave bio9 out
+Making features
+makeFeatures: max memory 3817865216, total allocated 231735296, free 92314880, used 139420416, increment -35917856
+Vulpes_macrotis bio9: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 231735296, free 77496104, used 154239192, increment 14818776
+linearPredictor: max memory 3817865216, total allocated 231735296, free 77496104, used 154239192, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 231735296, free 77496104, used 154239192, increment 0
+Sequential: max memory 3817865216, total allocated 231735296, free 77496104, used 154239192, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 112.988
+500: time = 3.774000 loss = 7.693103 testLoss 7.695813
+Jackknife: only bio1
+Making features
+makeFeatures: max memory 3817865216, total allocated 272629760, free 101593872, used 171035888, increment 16796696
+Vulpes_macrotis bio1: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 272629760, free 101348760, used 171281000, increment 245112
+linearPredictor: max memory 3817865216, total allocated 272629760, free 101348760, used 171281000, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 272629760, free 101348760, used 171281000, increment 0
+Sequential: max memory 3817865216, total allocated 272629760, free 101348760, used 171281000, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+500: time = 0.799000 loss = 8.618231 testLoss 8.515003
+Res.gain: 0.607588663267224
+Jackknife: only bio10
+Making features
+makeFeatures: max memory 3817865216, total allocated 272629760, free 144622344, used 128007416, increment -43273584
+Vulpes_macrotis bio10: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 272629760, free 144364416, used 128265344, increment 257928
+linearPredictor: max memory 3817865216, total allocated 272629760, free 144364416, used 128265344, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 272629760, free 144364416, used 128265344, increment 0
+Sequential: max memory 3817865216, total allocated 272629760, free 144364416, used 128265344, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 114.586
+380: time = 0.720000 loss = 8.602600 testLoss 8.533805
+Res.gain: 0.6232199185528788
+Jackknife: only bio11
+Making features
+makeFeatures: max memory 3817865216, total allocated 272629760, free 97923680, used 174706080, increment 46440736
+Vulpes_macrotis bio11: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 272629760, free 95890104, used 176739656, increment 2033576
+linearPredictor: max memory 3817865216, total allocated 272629760, free 95890104, used 176739656, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 272629760, free 95890104, used 176739656, increment 0
+Sequential: max memory 3817865216, total allocated 272629760, free 95890104, used 176739656, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+500: time = 0.709000 loss = 8.672095 testLoss 8.508162
+Res.gain: 0.5537252153838406
+Jackknife: only bio12
+Making features
+makeFeatures: max memory 3817865216, total allocated 288358400, free 162280032, used 126078368, increment -50661288
+Vulpes_macrotis bio12: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 288358400, free 160479896, used 127878504, increment 1800136
+linearPredictor: max memory 3817865216, total allocated 288358400, free 160479896, used 127878504, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 288358400, free 160479896, used 127878504, increment 0
+Sequential: max memory 3817865216, total allocated 288358400, free 160479896, used 127878504, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 115.771
+220: time = 0.445000 loss = 8.821988 testLoss 8.902368
+Res.gain: 0.40383210106061185
+Jackknife: only bio13
+Making features
+makeFeatures: max memory 3817865216, total allocated 288358400, free 81116920, used 207241480, increment 79362976
+Vulpes_macrotis bio13: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 288358400, free 81116920, used 207241480, increment 0
+linearPredictor: max memory 3817865216, total allocated 288358400, free 81116920, used 207241480, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 288358400, free 81116920, used 207241480, increment 0
+Sequential: max memory 3817865216, total allocated 288358400, free 81116920, used 207241480, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+140: time = 0.241000 loss = 9.040738 testLoss 9.109447
+Res.gain: 0.18508184081064627
+Jackknife: only bio14
+Making features
+makeFeatures: max memory 3817865216, total allocated 288358400, free 61768400, used 226590000, increment 19348520
+Vulpes_macrotis bio14: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 288358400, free 59968264, used 228390136, increment 1800136
+linearPredictor: max memory 3817865216, total allocated 288358400, free 59968264, used 228390136, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 288358400, free 59968264, used 228390136, increment 0
+Sequential: max memory 3817865216, total allocated 288358400, free 59968264, used 228390136, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+360: time = 0.558000 loss = 8.387279 testLoss 8.318980
+Res.gain: 0.8385408598489388
+Jackknife: only bio15
+Making features
+makeFeatures: max memory 3817865216, total allocated 282066944, free 147676496, used 134390448, increment -93999688
+Vulpes_macrotis bio15: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 282066944, free 145967672, used 136099272, increment 1708824
+linearPredictor: max memory 3817865216, total allocated 282066944, free 145967672, used 136099272, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 282066944, free 145967672, used 136099272, increment 0
+Sequential: max memory 3817865216, total allocated 282066944, free 145967672, used 136099272, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 117.005
+300: time = 0.381000 loss = 8.882794 testLoss 8.868814
+Res.gain: 0.34302643908484853
+Jackknife: only bio16
+Making features
+makeFeatures: max memory 3817865216, total allocated 282066944, free 123902064, used 158164880, increment 22065608
+Vulpes_macrotis bio16: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 282066944, free 122070632, used 159996312, increment 1831432
+linearPredictor: max memory 3817865216, total allocated 282066944, free 122070632, used 159996312, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 282066944, free 122070632, used 159996312, increment 0
+Sequential: max memory 3817865216, total allocated 282066944, free 122070632, used 159996312, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+220: time = 0.445000 loss = 9.044333 testLoss 9.132254
+Res.gain: 0.18148649029840414
+Jackknife: only bio17
+Making features
+makeFeatures: max memory 3817865216, total allocated 282066944, free 69769592, used 212297352, increment 52301040
+Vulpes_macrotis bio17: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 282066944, free 69769592, used 212297352, increment 0
+linearPredictor: max memory 3817865216, total allocated 282066944, free 69769592, used 212297352, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 282066944, free 69769592, used 212297352, increment 0
+Sequential: max memory 3817865216, total allocated 282066944, free 69769592, used 212297352, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+280: time = 0.457000 loss = 8.306538 testLoss 8.199092
+Res.gain: 0.9192814480394897
+Jackknife: only bio18
+Making features
+makeFeatures: max memory 3817865216, total allocated 282066944, free 158633216, used 123433728, increment -88863624
+Vulpes_macrotis bio18: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 282066944, free 157123392, used 124943552, increment 1509824
+linearPredictor: max memory 3817865216, total allocated 282066944, free 157123392, used 124943552, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 282066944, free 157123392, used 124943552, increment 0
+Sequential: max memory 3817865216, total allocated 282066944, free 157123392, used 124943552, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 118.359
+260: time = 0.407000 loss = 8.296944 testLoss 8.347070
+Res.gain: 0.9288761218718093
+Jackknife: only bio19
+Making features
+makeFeatures: max memory 3817865216, total allocated 282066944, free 129608928, used 152458016, increment 27514464
+Vulpes_macrotis bio19: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 282066944, free 128115488, used 153951456, increment 1493440
+linearPredictor: max memory 3817865216, total allocated 282066944, free 128115488, used 153951456, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 282066944, free 128115488, used 153951456, increment 0
+Sequential: max memory 3817865216, total allocated 282066944, free 128115488, used 153951456, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+240: time = 0.525000 loss = 9.051113 testLoss 9.153701
+Res.gain: 0.17470741244796528
+Jackknife: only bio2
+Making features
+makeFeatures: max memory 3817865216, total allocated 282066944, free 70499080, used 211567864, increment 57616408
+Vulpes_macrotis bio2: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 282066944, free 70499080, used 211567864, increment 0
+linearPredictor: max memory 3817865216, total allocated 282066944, free 70499080, used 211567864, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 282066944, free 70499080, used 211567864, increment 0
+Sequential: max memory 3817865216, total allocated 282066944, free 70499080, used 211567864, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 119.398
+360: time = 0.489000 loss = 9.144160 testLoss 9.187771
+Res.gain: 0.08166038337968651
+Jackknife: only bio3
+Making features
+makeFeatures: max memory 3817865216, total allocated 276824064, free 146787216, used 130036848, increment -81531016
+Vulpes_macrotis bio3: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 276824064, free 145902584, used 130921480, increment 884632
+linearPredictor: max memory 3817865216, total allocated 276824064, free 145821320, used 131002744, increment 81264
+FeaturedSpace: max memory 3817865216, total allocated 276824064, free 145821320, used 131002744, increment 0
+Sequential: max memory 3817865216, total allocated 276824064, free 145821320, used 131002744, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+140: time = 0.238000 loss = 9.190250 testLoss 9.180756
+Res.gain: 0.035569895303410703
+Jackknife: only bio4
+Making features
+makeFeatures: max memory 3817865216, total allocated 276824064, free 135376608, used 141447456, increment 10444712
+Vulpes_macrotis bio4: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 276824064, free 133168496, used 143655568, increment 2208112
+linearPredictor: max memory 3817865216, total allocated 276824064, free 133168496, used 143655568, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 276824064, free 133168496, used 143655568, increment 0
+Sequential: max memory 3817865216, total allocated 276824064, free 133168496, used 143655568, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 121.353
+500: time = 1.691000 loss = 9.074724 testLoss 9.069256
+Res.gain: 0.1510962727940015
+Jackknife: only bio5
+Making features
+makeFeatures: max memory 3817865216, total allocated 261619712, free 47894328, used 213725384, increment 70069816
+Vulpes_macrotis bio5: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 261619712, free 47715496, used 213904216, increment 178832
+linearPredictor: max memory 3817865216, total allocated 261619712, free 47715496, used 213904216, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 261619712, free 47715496, used 213904216, increment 0
+Sequential: max memory 3817865216, total allocated 261619712, free 47715496, used 213904216, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+300: time = 0.492000 loss = 8.579985 testLoss 8.527740
+Res.gain: 0.6458352985365217
+Jackknife: only bio6
+Making features
+makeFeatures: max memory 3817865216, total allocated 264765440, free 107386608, used 157378832, increment -56525384
+Vulpes_macrotis bio6: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 264765440, free 107243552, used 157521888, increment 143056
+linearPredictor: max memory 3817865216, total allocated 264765440, free 107243552, used 157521888, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 264765440, free 107243552, used 157521888, increment 0
+Sequential: max memory 3817865216, total allocated 264765440, free 107243552, used 157521888, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 122.417
+360: time = 0.541000 loss = 8.747814 testLoss 8.606208
+Res.gain: 0.4780058681944208
+Jackknife: only bio7
+Making features
+makeFeatures: max memory 3817865216, total allocated 264765440, free 62845280, used 201920160, increment 44398272
+Vulpes_macrotis bio7: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 264765440, free 60753736, used 204011704, increment 2091544
+linearPredictor: max memory 3817865216, total allocated 264765440, free 60753736, used 204011704, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 264765440, free 60753736, used 204011704, increment 0
+Sequential: max memory 3817865216, total allocated 264765440, free 60753736, used 204011704, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+480: time = 0.696000 loss = 8.937369 testLoss 8.958435
+Res.gain: 0.2884509071243322
+Jackknife: only bio8
+Making features
+makeFeatures: max memory 3817865216, total allocated 260046848, free 88142544, used 171904304, increment -32107400
+Vulpes_macrotis bio8: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 260046848, free 86156512, used 173890336, increment 1986032
+linearPredictor: max memory 3817865216, total allocated 260046848, free 86156512, used 173890336, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 260046848, free 86156512, used 173890336, increment 0
+Sequential: max memory 3817865216, total allocated 260046848, free 86156512, used 173890336, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+Time since start: 124.01
+500: time = 0.870000 loss = 8.695498 testLoss 8.712317
+Res.gain: 0.530322429343224
+Jackknife: only bio9
+Making features
+makeFeatures: max memory 3817865216, total allocated 260046848, free 102985328, used 157061520, increment -16828816
+Vulpes_macrotis bio9: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+180 samples
+Density: max memory 3817865216, total allocated 260046848, free 101533336, used 158513512, increment 1451992
+linearPredictor: max memory 3817865216, total allocated 260046848, free 101533336, used 158513512, increment 0
+FeaturedSpace: max memory 3817865216, total allocated 260046848, free 101533336, used 158513512, increment 0
+Sequential: max memory 3817865216, total allocated 260046848, free 101533336, used 158513512, increment 0
+Initial loss: 9.225819942824568
+Initial test loss: 9.225819942824568
+500: time = 0.809000 loss = 8.317148 testLoss 8.371815
+Res.gain: 0.9086720022380135
+Ending
