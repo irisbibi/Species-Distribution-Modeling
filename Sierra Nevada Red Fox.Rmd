@@ -1,6 +1,6 @@
 ---
-title: "Final Project - Species Distribution Modeling for Sierra Nevada Red Fox"
-author: "Iris Zhang and Camille Brzechefa"
+title: "Species Distribution Modeling for Sierra Nevada Red Fox"
+author: "Iris Zhang"
 date: "04/27/2020"
 output: html_document
 ---
